@@ -1,0 +1,5 @@
+/home/darkblade/Documents/GitHub/Operating-Systems/Lab1/build/CMakeFiles/Lab1_lib.dir
+/home/darkblade/Documents/GitHub/Operating-Systems/Lab1/build/CMakeFiles/Lab1.dir
+/home/darkblade/Documents/GitHub/Operating-Systems/Lab1/build/CMakeFiles/zip.dir
+/home/darkblade/Documents/GitHub/Operating-Systems/Lab1/build/CMakeFiles/edit_cache.dir
+/home/darkblade/Documents/GitHub/Operating-Systems/Lab1/build/CMakeFiles/rebuild_cache.dir
