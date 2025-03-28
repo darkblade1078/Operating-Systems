@@ -33,27 +33,3 @@
 
 **/build/
 *.zip
-
-# IDE specific files
-.vscode/
-.idea/
-*.swp
-*~
-
-# OS specific files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Build directories
-cmake-build-*/
-Debug/
-Release/
-
-# Project specific
-*.log
-core.*
