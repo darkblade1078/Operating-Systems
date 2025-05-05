@@ -81,6 +81,7 @@
         "fstream": "cpp",
         "ranges": "cpp",
         "stdfloat": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "strstream": "cpp"
     }
 }
